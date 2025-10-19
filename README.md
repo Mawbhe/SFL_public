@@ -34,11 +34,11 @@ Next, I’m working on **fine-tuning for low-resource African languages**, helpi
 
 ## 📱🖥️ Previews
 
-### Mobile UI
-![Mobile Preview](./mobile.jpg)
+<p align="center">
+  <img src="./mobile.jpg" alt="Mobile Preview" width="250" style="border-radius:12px; margin-right:10px;"/>
+  <img src="./pc.jpg" alt="Desktop Preview" width="350" style="border-radius:12px;"/>
+</p>
 
-### Desktop UI
-![Desktop Preview](./pc.jpg)
 
 
 ---
