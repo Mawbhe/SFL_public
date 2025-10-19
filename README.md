@@ -35,10 +35,10 @@ Next, I’m working on **fine-tuning for low-resource African languages**, helpi
 ## 📱🖥️ Previews
 
 ### Mobile UI
-![Mobile Preview](./mobile.jpeg)
+![Mobile Preview](./mobile.jpg)
 
 ### Desktop UI
-![Desktop Preview](./pc.jpeg)
+![Desktop Preview](./pc.jpg)
 
 
 ---
