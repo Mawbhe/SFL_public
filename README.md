@@ -3,12 +3,12 @@
  
  # 🎧 Shazam for Languages
 
-A fun side project I started while living in the beautiful Côte d’Azur 🇫🇷 — surrounded by tourists speaking every possible language (and often not understanding a word 😅).  
+A fun side project I started while living in the beautiful Côte d’Azur 🇫🇷 — surrounded by tourists speaking every possible language.  
 So I built this “Shazam for Language” app to **instantly recognize what language someone is speaking** and even **transcribe speech or videos**.
 
 ---
 
-## 🌍 Goal
+## Goal
 
 The main idea is simple:
 > Hear a voice → detect the language → show what was said.
@@ -16,13 +16,12 @@ The main idea is simple:
 Right now it works well for:
 - 🎤 **Live speech recognition**
 - 🎬 **Video/audio transcription**
-- 📄 **Text language detection**
 
-Next, I’m working on **fine-tuning for low-resource African languages**, helping improve accessibility and representation in speech technology.
+Next, I’m working on **fine-tuning for low-resource African languages**.(focus on Wolof & Fula)
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |-------|------|
