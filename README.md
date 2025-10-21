@@ -33,7 +33,7 @@ Next, I’m working on **fine-tuning for low-resource African languages**.(focus
 
 | Layer | Tech |
 |-------|------|
-| Frontend | **NestJS** (optimized for both mobile and desktop interfaces) |
+| Frontend | **NextJS** () |
 | Backend | **Python FastAPI** |
 | Core Tasks | Language recognition, speech transcription, and dataset fine-tuning for underrepresented languages |
 
